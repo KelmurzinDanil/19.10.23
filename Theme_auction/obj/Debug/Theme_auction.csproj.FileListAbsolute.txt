@@ -1,0 +1,7 @@
+C:\Users\Данил\source\repos\Theme_auction\bin\Debug\Theme_auction.exe.config
+C:\Users\Данил\source\repos\Theme_auction\bin\Debug\Theme_auction.exe
+C:\Users\Данил\source\repos\Theme_auction\bin\Debug\Theme_auction.pdb
+C:\Users\Данил\source\repos\Theme_auction\obj\Debug\Theme_auction.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Theme_auction\obj\Debug\Theme_auction.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Theme_auction\obj\Debug\Theme_auction.exe
+C:\Users\Данил\source\repos\Theme_auction\obj\Debug\Theme_auction.pdb
